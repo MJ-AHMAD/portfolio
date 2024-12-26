@@ -106,16 +106,6 @@ const about = {
                     <>This service includes: Flights Search Engine options, Providing real-time flight results to ensure up-to-date information, Flight Tickets Booking, and Issue.</>
                 ],
                 images: [ ]
-            },
-                            {
-                company: 'EduAlly Initiatives',
-                timeframe: '',
-                role: 'Lead Designer',
-                achievements: [
-                    <>EduAlly Initiatives focuses on providing accessible and quality education to children and adults.</>,
-                    <>This program includes: Access to Quality Education, Innovative Learning Methods, Scholarships, and Financial Aid.</>
-                ],
-                images: [ ]
             }
         ]
     },
