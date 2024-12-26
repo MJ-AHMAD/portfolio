@@ -77,7 +77,7 @@ const createI18nContent = (t) => {
             title: t("about.work.title"),
             experiences: [
                 {
-                    company: 'TRUSTED ALLY',
+                    company: 'TechAlly Ventures',
                     timeframe: t("about.work.experiences.FLY.timeframe"),
                     role: t("about.work.experiences.FLY.role"),
                     achievements: t("about.work.experiences.FLY.achievements").split(";"),
@@ -91,7 +91,7 @@ const createI18nContent = (t) => {
                     ]
                 },
                 {
-                    company: 'Creativ3',
+                    company: 'AllyVoyage',
                     timeframe: t("about.work.experiences.Creativ3.timeframe"),
                     role: t("about.work.experiences.Creativ3.role"),
                     achievements: t("about.work.experiences.Creativ3.achievements").split(";"),
