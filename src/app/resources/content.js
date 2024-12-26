@@ -69,19 +69,24 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology.</>
+        description: <>Enthusiast of Technological Innovation. As a fervent advocate for the latest technological advancements and a committed member of the Microsoft community, I am deeply passionate about exploring cutting-edge solutions and disseminating knowledge. My odyssey with Microsoft technologies has been nothing short of transformative, fueling my desire to engage with like-minded tech aficionados. I delve into the newest tech trends to stay ahead of the curve.</>
+<>Committed to personal and professional growth through ongoing education.</>
+<>Eager to connect and collaborate with fellow technology enthusiasts.</>
+<>My goal is to make education an indispensable part of every child's life, enabling them to pursue their dreams and aspirations.</>
+    <>I believe that my ongoing education and technical research contribute to the advancement of technology and the realization of a Digital Bangladesh. This journey will shape me into a competent, skilled, and ideal citizen, Insha'Allah.</>
+    <> Join me on this journey of discovery and growth. Together, we can turn our shared enthusiasm for technology into a catalyst for innovation.</>
     },
     work: {
         display: true, // set to false to hide this section
-        title: 'Work Experience',
+        title: 'My Ongoing Projects',
         experiences: [
             {
-                company: 'FLY',
-                timeframe: '2022 - Present',
-                role: 'Senior Design Engineer',
+                company: 'TechAlly Ventures',
+                timeframe: '',
+                role: '',
                 achievements: [
-                    <>Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
-                    <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
+                    <>TechAlly Ventures is a comprehensive Online Marketing and Advertising platform developed under the esteemed umbrella of TRUSTED ALLY.</>,
+                    <>Our mission is to craft a robust and dynamic platform that leverages various cutting-edge tools and APIs, enabling businesses to implement effective and efficient digital marketing strategies.</>
                 ],
                 images: [ // optional: leave the array empty if you don't want to display images
                     {
@@ -93,12 +98,22 @@ const about = {
                 ]
             },
             {
-                company: 'Creativ3',
-                timeframe: '2018 - 2022',
+                company: 'AllyVoyage',
+                timeframe: '',
                 role: 'Lead Designer',
                 achievements: [
-                    <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
-                    <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
+                    <>AllyVoyage is a creative and effective travel agency that provides comprehensive travel management, itinerary planning, and customer support.</>,
+                    <>This service includes: Flights Search Engine options, Providing real-time flight results to ensure up-to-date information, Flight Tickets Booking, and Issue.</>
+                ],
+                images: [ ]
+            },
+                            {
+                company: 'EduAlly Initiatives',
+                timeframe: '',
+                role: 'Lead Designer',
+                achievements: [
+                    <>EduAlly Initiatives focuses on providing accessible and quality education to children and adults.</>,
+                    <>This program includes: Access to Quality Education, Innovative Learning Methods, Scholarships, and Financial Aid.</>
                 ],
                 images: [ ]
             }
@@ -109,7 +124,7 @@ const about = {
         title: 'Studies',
         institutions: [
             {
-                name: 'University of Jakarta',
+                name: 'Microsoft Learn',
                 description: <>Studied software engineering.</>,
             },
             {
@@ -123,8 +138,8 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'Figma',
-                description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+                title: 'Full-Stack Development',
+                description: <>Explore the diverse range of technologies I work with to bring innovative solutions to life. From front-end frameworks to back-end systems, I leverage the latest tools to deliver high-quality results.</>,
                 // optional: leave the array empty if you don't want to display images
                 images: [
                     {
