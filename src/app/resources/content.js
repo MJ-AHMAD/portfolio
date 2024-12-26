@@ -78,7 +78,7 @@ const about = {
     },
     work: {
         display: true, // set to false to hide this section
-        title: 'My Ongoing Projects',
+        title: 'Work Experiences',
         experiences: [
             {
                 company: 'TechAlly Ventures',
