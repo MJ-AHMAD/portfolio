@@ -77,7 +77,7 @@ const about = {
     <> Join me on this journey of discovery and growth. Together, we can turn our shared enthusiasm for technology into a catalyst for innovation.</>
     },
     work: {
-        display: true, 
+        display: true, // set to false to hide this section
         title: 'Work Experiences',
         experiences: [
             {
